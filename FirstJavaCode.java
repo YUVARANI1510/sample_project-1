@@ -7,8 +7,7 @@ class FirstJavaCode
           System.out.println("Hello to Java Programming World");  
           FirstJavaCode fjc = new FirstJavaCode();
                  fjc.show();
-           fjc.otherMethod(); 
-                 fjc.newMethod();
+           fjc.otherMethod();    
           }
          
          public void show(){
@@ -19,13 +18,12 @@ class FirstJavaCode
          
          void otherMethod()
          {
-          System.out.println("Hello its otherMethod from thinkbot");  
-                    
+          System.out.println("Hello its otherMethod from thinkbot"); 
                   
          }
-         void newMethod()
+          void newMethod()
          {
-                  System.out.println("Hello this is a new small change from akhil");
+                  System.out.println("Hello this is a new small change from yuvarani");
          }
        
 }
